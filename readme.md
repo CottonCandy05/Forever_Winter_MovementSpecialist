@@ -38,26 +38,23 @@ You can press M anytime, even while running. You don't need to stop moving. When
 
 ## What This Mod Changes
 
-**Faster Movement**
-All characters move faster — walking, sprinting, crouching, everything. Each character still feels different from the others, heavier characters are still slower, lighter ones still quicker, but everyone gets the same proportional buff.
+* **Faster Movement:** All characters move faster across the board — walking, sprinting, and crouching. Lighter characters stay nimble and heavier characters stay tanky, but everyone gets a substantial speed boost.
 
-**Sprint In The Innards Hub**
-You can now sprint inside the Innards at a comfortable jog speed instead of being forced to walk everywhere.
+* **Snappy Ballistic Jumps:** Replaces the floaty "moon gravity" feel with a tight, snappy jump arc. Jumping while sprinting preserves 100% of your forward momentum through the air instead of slowing you down mid-jump.
 
-**Double Jump**
-Every character can double jump. Jumping costs zero stamina.
+* **Double Jump:** All characters can double jump to clear tall obstacles, gaps, and ledges. Both first and double jumps cost zero stamina.
 
-**Stamina**
-The mod runs its own stamina system. Stamina only drains while actively sprinting on the ground — walking, jumping, and being in the air are all free. Regen speed matches whatever the game gives you so your skill tree upgrades still count. If you fully run out of stamina, you'll be locked to walking until it fully refills.
+* **No Landing Stuns:** Touchdowns after big jumps or drops no longer freeze your character in place with a landing recovery animation. You land running and keep your momentum fluid.
 
-**Adrenal Surge**
-When your health drops below 30%, you get a temporary speed burst with massively reduced stamina drain for a few seconds. It automatically re-arms once your health recovers above 60%.
+* **Sprint in the Innards Hub:** You can now sprint inside the Innards base at a comfortable jog speed instead of being forced to walk everywhere.
 
-**No Damage Stagger**
-Getting shot no longer freezes your character in place. You still take full damage but you can keep moving through it instead of getting stun-locked to death by bullet spam.
+* **No Damage Stagger (Anti-Stunlock):** Getting shot by enemy bullets or mechs no longer locks your character in flinch animations or stops you from shooting back. You still take full damage, but you can keep running, jumping, and fighting without getting stunned to death.
 
-**Skill Tree Compatible**
-Any speed or stamina upgrades you unlock in the skill tree still work and stack with the mod.
+* **Smart Stamina System:** Stamina only drains while actively sprinting on the ground. Walking, jumping, and being airborne are 100% free. If you completely run out of stamina, you walk until it fully refills, then cleanly regain sprint and double-jump without stuttering.
+
+* **Adrenal Surge (Clutch Escape):** When your health drops below 30%, you get an automatic 8-second speed burst with 80% reduced stamina drain to help you escape or reposition. It automatically re-arms once your health recovers above 60%.
+
+* **Skill Tree & Rig Compatible:** Any speed, stamina, or gear upgrades you unlock in the character skill tree stack directly on top of the mod's buffs.
 
 ---
 
