@@ -67,15 +67,12 @@ Any speed or stamina upgrades you unlock in the skill tree still work and stack 
 |---|---|---|
 | **Jump Count** | Single jump only | **Double jump** enabled on all characters |
 | **Jump Stamina Cost** | Costs 15 stamina per jump | **0 stamina** (Both first and double jumps are completely free) |
-| **Airborne Traversal** | Stamina drains mid-air while jumping or falling | **Paused mid-air** (Only ground sprinting drains stamina) |
-| **Innards Hub Sprint** | Disabled (Forced to walk everywhere) | **Full sprint enabled** at a brisk, comfortable jog pace |
 | **Damage Stagger & Flinch** | Enemy bullets stagger you, freeze movement & lock weapon fire | **Stagger immunity** (Take full damage, but keep running and shooting) |
 | **Landing & Impact Stuns** | Hard landings lock controls for up to 0.75s | **Stun-breaking** (Landing recovery animations cancelled for smooth momentum) |
-| **Exhaustion State** | Micro-stagger stutter loop (stops, gains a sliver, stumbles again) | **Clean walk gate** until stamina hits 100%, then cleanly unlocks sprint |
 | **Adrenal Surge (< 30% HP)** | None | **8-second burst:** speed boost + 80% stamina cost reduction (re-arms > 60% HP) |
 | **Air Control & Drag** | Floaty hang time with heavy mid-air friction | **Snappy ballistic arc** with zero mid-air friction (momentum preserved) |
 | **Skill Tree Scaling** | Standard perks | **All speed & stamina upgrades** compound directly on top of mod buffs |
-| **In-Game Toggle** | None | Press **M** to seamlessly toggle mod on/off anytime on the fly |
+
 
 ---
 
