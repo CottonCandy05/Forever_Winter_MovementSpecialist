@@ -46,8 +46,6 @@ You can press M anytime, even while running. You don't need to stop moving. When
 
 * **No Landing Stuns:** Touchdowns after big jumps or drops no longer freeze your character in place with a landing recovery animation. You land running and keep your momentum fluid.
 
-* **Sprint in the Innards Hub:** You can now sprint inside the Innards base at a comfortable jog speed instead of being forced to walk everywhere.
-
 * **No Damage Stagger (Anti-Stunlock):** Getting shot by enemy bullets or mechs no longer locks your character in flinch animations or stops you from shooting back. You still take full damage, but you can keep running, jumping, and fighting without getting stunned to death.
 
 * **Smart Stamina System:** Stamina only drains while actively sprinting on the ground. Walking, jumping, and being airborne are 100% free. If you completely run out of stamina, you walk until it fully refills, then cleanly regain sprint and double-jump without stuttering.
