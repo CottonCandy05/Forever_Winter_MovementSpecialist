@@ -75,12 +75,12 @@ You can press M anytime, even while running. You don't need to stop moving. When
 
 Rather than making every character move at the exact same flat speed, each character receives tailored buffs that amplify their native role:
 
-| Character | Role & Feel | Walk Speed | Sprint Speed | Crouch Speed | Hub Jog | Jump Height | Stamina Tank |
+| Character | Role & Feel | Walk Speed<br>*(Vanilla → Mod)* | Sprint Speed<br>*(Vanilla → Mod)* | Crouch Speed<br>*(Vanilla → Mod)* | Hub Jog<br>*(Vanilla → Mod)* | Jump Height<br>*(Vanilla → Mod)* | Stamina Tank |
 |---|---|---|---|---|---|---|---|
-| **Scav Girl** | Agile Scout (Fastest & lightest) | 330 | 1040 | 255 | 530 | 740 | 80 |
-| **Shaman** | Combat Veteran (Balanced benchmark) | 310 | 960 | 240 | 500 | 710 | 85 |
-| **Old Man** | Tactical Marksman (Steady & dependable) | 305 | 950 | 235 | 495 | 705 | 85 |
-| **Mask Man** | Sharpshooter (Lean & precise) | 310 | 940 | 240 | 500 | 700 | 75 |
-| **Gunhead** | Heavy Gunner (Durable & solid) | 300 | 930 | 230 | 490 | 700 | 90 |
-| **Bag Man** | Heavy Hauler (Slowest pace, massive stamina & carry) | 285 | 870 | 220 | 450 | 680 | 105 |
+| **Scav Girl** | Agile Scout (Fastest & lightest) | 315 → **330** | 630 → **1040** | 160 → **255** | 315 → **530** | 600 → **740** | 80 |
+| **Shaman** | Combat Veteran (Balanced benchmark) | 299 → **310** | 598 → **960** | 150 → **240** | 299 → **500** | 600 → **710** | 85 |
+| **Old Man** | Tactical Marksman (Steady & dependable) | 295 → **305** | 590 → **950** | 145 → **235** | 295 → **495** | 600 → **705** | 85 |
+| **Mask Man** | Sharpshooter (Lean & precise) | 299 → **310** | 598 → **940** | 150 → **240** | 299 → **500** | 600 → **700** | 75 |
+| **Gunhead** | Heavy Gunner (Durable & solid) | 290 → **300** | 580 → **930** | 145 → **230** | 290 → **490** | 600 → **700** | 90 |
+| **Bag Man** | Heavy Hauler (Slowest pace, massive stamina & carry) | 275 → **285** | 550 → **870** | 140 → **220** | 275 → **450** | 600 → **680** | 105 |
 
