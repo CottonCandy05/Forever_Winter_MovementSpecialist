@@ -65,11 +65,29 @@ Any speed or stamina upgrades you unlock in the skill tree still work and stack 
 
 Works on all 6 playable characters. Every character keeps their own unique feel — nobody becomes the same.
 
-- Shaman
-- Scav Girl
-- Old Man
-- Bag Man
-- Mask Man
-- Gunhead
+### General Changes
 
-If you play a character the mod doesn't recognize, it falls back to balanced default stats.
+| Feature | Vanilla | Modded |
+|---------|---------|--------|
+| Jump | Single | Double |
+| Jump Stamina Cost | 15 | 0 (free) |
+| Sprint In Innards Hub | No | Yes |
+| Damage Stagger | Yes (locks you in place) | No (keep moving) |
+| Stamina Regen Speed | 8.5/s | Game default (skill tree applies) |
+
+### Per Character
+
+| Character | | Walk | Sprint | Crouch | Hub Jog | Jump Height | Max Stamina |
+|-----------|------|------|--------|--------|---------|-------------|-------------|
+| **Shaman** | Vanilla | 299 | 598 | 150 | 299 | 600 | 85 |
+| | Modded | 310 | 960 | 240 | 500 | 710 | 85 |
+| **Scav Girl** | Vanilla | 299 | 598 | 150 | 299 | 600 | 80 |
+| | Modded | 330 | 1040 | 255 | 530 | 740 | 80 |
+| **Old Man** | Vanilla | 299 | 598 | 150 | 299 | 600 | 85 |
+| | Modded | 305 | 950 | 235 | 495 | 705 | 85 |
+| **Bag Man** | Vanilla | 299 | 598 | 150 | 299 | 600 | 105 |
+| | Modded | 285 | 870 | 220 | 450 | 680 | 105 |
+| **Mask Man** | Vanilla | 299 | 598 | 150 | 299 | 600 | 75 |
+| | Modded | 310 | 940 | 240 | 500 | 700 | 75 |
+| **Gunhead** | Vanilla | 299 | 598 | 150 | 299 | 600 | 90 |
+| | Modded | 300 | 930 | 230 | 490 | 700 | 90 |
